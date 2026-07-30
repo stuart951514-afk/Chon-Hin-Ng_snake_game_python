@@ -1,6 +1,6 @@
-import pygame
-import sys
-import random
+import pygame #Game engine: window, graphics, events, and clock
+import sys #System exit: terminates the program safely
+import random #Random generation: spawns food at random grid positions
 
 #1. Game Constants (UPPERCASE)
 
